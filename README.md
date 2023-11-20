@@ -26,3 +26,6 @@ How are your models performing? Do you need to change anything in your model? Vi
 
 ## Step 5 – Important features
 What are the three most important features in predicting students’ final grade?
+
+## Overall feedback 
+Good job dropping week8_total, nice job with visualization on correlation to compare which features are important.  You did a lot cross validation too which others didn't do 
