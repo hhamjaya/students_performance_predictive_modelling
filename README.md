@@ -1,4 +1,4 @@
-# Mini Project II – Students Performance
+# Mini Project 2 – Students Performance
 
 ## Project description
 The data was collected from a fully online nine-week-long course on machine learning, hosted on the online learning management system Moodle. The goal of this project is to use two different supervised learning approaches (of your choice) to predict students’ final grade in an online course.
